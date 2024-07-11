@@ -21,6 +21,7 @@ main {
 
 section {
     margin: 24px 0;
+    border: 3px dotted orange;
     padding: 16px;
     /* padding-top: 16px;
     padding-bottom: 16px;
@@ -43,5 +44,5 @@ nav > ul {
 
 #avatar {
     width: 100px;
-    margin: 32px auto;
+    margin: 50px auto;
 }
